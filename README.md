@@ -11,9 +11,9 @@ Nivel: Básico / 14hrs / JavaScript
 
 ---
 
-### Certificado - [Ariel]()
+### Certificado - [Ariel](https://www.dio.me/certificate/D7B1982C/share)
 
-<img src="">
+<img src="https://hermes.digitalinnovation.one/certificates/cover/D7B1982C.jpg">
 
 ---
 
